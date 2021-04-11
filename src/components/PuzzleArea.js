@@ -117,7 +117,6 @@ export const PuzzleArea = ({rows, columns}) => {
 
 // Styled Components
 const OutterWrapper = styled.div`
-    padding: 10px;
     font-family: 'Anton', sans-serif;
 `
 

@@ -12,5 +12,4 @@ export const App = () => {
 
 const Content = styled.div`
   margin: 0 auto;
-  padding: 20px;
 `
